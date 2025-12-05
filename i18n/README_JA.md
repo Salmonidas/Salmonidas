@@ -51,7 +51,7 @@
 ## 統計学   
 
    <p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=ja"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=ja"/>
+      <img width="56%" src="https://github-readme-stats-xi-self-83.vercel.app/api?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=ja"/>
+      <img width="36%" src="https://github-readme-stats-xi-self-83.vercel.app/api/top-langs/?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=ja"/>
    </p>
 

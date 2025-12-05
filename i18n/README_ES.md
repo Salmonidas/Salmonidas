@@ -51,7 +51,7 @@ Me gusta crear nuevos proyectos de las cosas que me gustan y hacerlos lo más ú
 ## Estadísticas   
 
    <p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=es"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=es"/>
+      <img width="56%" src="https://github-readme-stats-xi-self-83.vercel.app/api?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=es"/>
+      <img width="36%" src="https://github-readme-stats-xi-self-83.vercel.app/api/top-langs/?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=es"/>
    </p>
 

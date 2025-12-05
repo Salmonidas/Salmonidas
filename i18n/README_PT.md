@@ -50,6 +50,6 @@ Gosto de criar novos projetos das coisas que gosto e torná-los o mais úteis po
 ## Estatisticas   
 
    <p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=pt-PT"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=pt-PT"/>
+      <img width="56%" src="https://github-readme-stats-xi-self-83.vercel.app/api?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=pt-PT"/>
+      <img width="36%" src="https://github-readme-stats-xi-self-83.vercel.app/api/top-langs/?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=pt-PT"/>
    </p>
