@@ -2,12 +2,12 @@
 
 ## Presentazione 👋
 
-Jorge, sviluppatore Junior.
+Jorge, sviluppatore di applicazioni multipiattaforma.
 
 Mi piace creare nuovi progetti delle cose che mi piacciono e renderli il più utili possibile.
 
 - 📚 Tecnico superiore nella sviluppo di applicazioni multipiattaforma.
-- 🌱 Attualmente sto imparando Kotlin, Unity, TypeScript...
+- 🌱 Attualmente sto imparando sviluppo Android con Kotlin, Jetpack Compose e tecnologie mobili multipiattaforma...
 
 # Sviluppando
 
@@ -23,7 +23,7 @@ Mi piace creare nuovi progetti delle cose che mi piacciono e renderli il più ut
 ### Linguaggi di programmazione
 
    <p align="center">
-      <img src="https://github.com/JSalmon11/JSalmon11/blob/src/Languages/kotlin.svg"/>
+      <img src="https://github.com/Salmonidas/Salmonidas/blob/src/Languages/kotlin.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg"/>
@@ -50,6 +50,7 @@ Mi piace creare nuovi progetti delle cose che mi piacciono e renderli il più ut
 ## Statistiche   
 
    <p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=it"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=it"/>
+      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=it"/>
+      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=it"/>
    </p>
+
