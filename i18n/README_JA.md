@@ -2,12 +2,12 @@
 
 ## プレゼンテーション 👋
 
-ホルヘ、ジュニア開発者。
+ホルヘ、マルチプラットフォームアプリケーション開発者。
 
 私は自分が好きなものの新しいプロジェクトを作成し、それらを可能な限り役立つものにするのが好きです。
 
 - 📚 マルチプラットフォームアプリケーション開発の上級技術者。
-- 🌱 現在、Kotlin、Unity、TypeScriptを学習しています...
+- 🌱 現在KotlinとJetpack Composeを用いたAndroid開発、およびマルチプラットフォームモバイル技術を学習しています...
 
 # 現像
 
@@ -23,7 +23,7 @@
 ### プログラミング言語
 
    <p align="center">
-      <img src="https://github.com/JSalmon11/JSalmon11/blob/src/Languages/kotlin.svg"/>
+      <img src="https://github.com/Salmonidas/Salmonidas/blob/src/Languages/kotlin.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg"/>
@@ -50,6 +50,7 @@
 ## 統計学   
 
    <p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=ja"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=ja"/>
+      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&locale=ja"/>
+      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=ja"/>
    </p>
+
