@@ -12,12 +12,11 @@
 
 ## Hi there! 👋
 
-Hi! My name is Jorge, Junior developer.
-
+Hi! My name is Jorge, multiplatform application developer.
 I love creating projects of the things that I like and  that can be useful.
 
 - 📚 Senior Technician in multiplatform application development.
-- 🌱 I’m currently learning Kotlin, Unity, TypeScript...
+- 🌱 I’m currently learning Android development with Kotlin, Jetpack Compose, and cross-platform mobile technologies...
 
 # Development
 
@@ -33,7 +32,7 @@ I love creating projects of the things that I like and  that can be useful.
 ### Languages
 
    <p align="center">
-      <img src="https://github.com/JSalmon11/JSalmon11/blob/src/Languages/kotlin.svg"/>
+      <img src="https://github.com/Salmonidas/Salmonidas/blob/src/Languages/kotlin.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg"/>
@@ -60,6 +59,6 @@ I love creating projects of the things that I like and  that can be useful.
 ## Statistics   
 
    <p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
+      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Salmonidas&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
       <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalmon11&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
    </p>
