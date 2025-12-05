@@ -2,12 +2,11 @@
 
 ## Apresentação 👋
 
-Jorge, desenvolvedor júnior.
-
+Jorge, desenvolvedor de aplicações multiplataforma.
 Gosto de criar novos projetos das coisas que gosto e torná-los o mais úteis possível.
 
 - 📚 Técnico superior em desenvolvimento de aplicações multiplataforma.
-- 🌱 Atualmente aprendendo Kotlin, Unity, TypeScript...
+- 🌱 Atualmente aprendendo desenvolvimento Android com Kotlin, Jetpack Compose e tecnologias móveis multiplataforma...
 
 # Desenvolvimento 
 
@@ -23,7 +22,7 @@ Gosto de criar novos projetos das coisas que gosto e torná-los o mais úteis po
 ### Linguagens de programação
 
    <p align="center">
-      <img src="https://github.com/JSalmon11/JSalmon11/blob/src/Languages/kotlin.svg"/>
+      <img src="https://github.com/Salmonidas/Salmonidas/blob/src/Languages/kotlin.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg"/>
