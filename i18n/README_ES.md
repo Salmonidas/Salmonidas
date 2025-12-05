@@ -37,6 +37,7 @@ Me gusta crear nuevos proyectos de las cosas que me gustan y hacerlos lo más ú
 ### Herramientas
 
    <p align="center">
+      <img src="https://github.com/Salmonidas/Salmonidas/blob/src/IDES/%20google_antigravity.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg"/>

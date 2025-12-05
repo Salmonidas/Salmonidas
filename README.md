@@ -46,6 +46,7 @@ I love creating projects of the things that I like and  that can be useful.
 ### Tools
 
    <p align="center">
+      <img src="https://github.com/Salmonidas/Salmonidas/blob/src/IDES/%20google_antigravity.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg"/>
