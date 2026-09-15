@@ -9,7 +9,21 @@ Mi piace creare nuovi progetti delle cose che mi piacciono e renderli il più ut
 - 📚 Tecnico superiore nella sviluppo di applicazioni multipiattaforma.
 - 🌱 Attualmente sto imparando sviluppo Android con Kotlin, Jetpack Compose e tecnologie mobili multipiattaforma...
 
-# Sviluppando
+# Sitios
+
+<p align="center">
+  <a href="https://salmonidas-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-0d1117?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=5711914854157447198">
+    <img src="https://img.shields.io/badge/Google_Play-Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+  <a href="https://salmonidas-dev.vercel.app/open-source">
+    <img src="https://img.shields.io/badge/Open_Source-Progetti-0d1117?style=for-the-badge&logo=openproject&logoColor=pink" alt="Progetti Open Source"/>
+  </a>
+</p>
+
+# Sviluppo
 
 ### Piattaforme
 

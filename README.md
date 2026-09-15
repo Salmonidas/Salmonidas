@@ -18,6 +18,20 @@ I love creating projects of the things that I like and  that can be useful.
 - 📚 Senior Technician in multiplatform application development.
 - 🌱 I’m currently learning Android development with Kotlin, Jetpack Compose, and cross-platform mobile technologies...
 
+# Sites
+
+<p align="center">
+  <a href="https://salmonidas-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-0d1117?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=5711914854157447198">
+    <img src="https://img.shields.io/badge/Google_Play-Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+  <a href="https://salmonidas-dev.vercel.app/open-source">
+    <img src="https://img.shields.io/badge/Open_Source-Projects-0d1117?style=for-the-badge&logo=openproject&logoColor=pink" alt="Open Source projects"/>
+  </a>
+</p>
+
 # Development
 
 ### Platforms

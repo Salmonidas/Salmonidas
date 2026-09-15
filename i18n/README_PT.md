@@ -8,6 +8,20 @@ Gosto de criar novos projetos das coisas que gosto e torná-los o mais úteis po
 - 📚 Técnico superior em desenvolvimento de aplicações multiplataforma.
 - 🌱 Atualmente aprendendo desenvolvimento Android com Kotlin, Jetpack Compose e tecnologias móveis multiplataforma...
 
+# Sítios
+
+<p align="center">
+  <a href="https://salmonidas-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-0d1117?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=5711914854157447198">
+    <img src="https://img.shields.io/badge/Google_Play-Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+  <a href="https://salmonidas-dev.vercel.app/open-source">
+    <img src="https://img.shields.io/badge/Open_Source-Projetos-0d1117?style=for-the-badge&logo=openproject&logoColor=pink" alt="Projetos Open Source"/>
+  </a>
+</p>
+
 # Desenvolvimento 
 
 ### Plataformas

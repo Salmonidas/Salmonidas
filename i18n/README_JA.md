@@ -9,7 +9,21 @@
 - 📚 マルチプラットフォームアプリケーション開発の上級技術者。
 - 🌱 現在KotlinとJetpack Composeを用いたAndroid開発、およびマルチプラットフォームモバイル技術を学習しています...
 
-# 現像
+# サイト
+
+<p align="center">
+  <a href="https://salmonidas-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-0d1117?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=5711914854157447198">
+    <img src="https://img.shields.io/badge/Google_Play-Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+  <a href="https://salmonidas-dev.vercel.app/open-source">
+    <img src="https://img.shields.io/badge/Open_Source-Projects-0d1117?style=for-the-badge&logo=openproject&logoColor=pink" alt="Progetti Open Source"/>
+  </a>
+</p>
+
+# 開発
 
 ### プラットフォーム
 
