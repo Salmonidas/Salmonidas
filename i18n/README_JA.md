@@ -1,5 +1,17 @@
 # Jorge Salmón
 
+<p>
+  <a href="../README.md">English</a>
+  ·
+  <a href="./README_ES.md">Español</a>
+  ·
+  <a href="./README_PT.md">Português</a>
+  ·
+  <a href="./README_IT.md">Italiano</a>
+  ·
+  <b>日本語</b>
+</p>
+
 ## プレゼンテーション 👋
 
 ホルヘ、マルチプラットフォームアプリケーション開発者。
@@ -13,14 +25,32 @@
 
 <p align="center">
   <a href="https://salmonidas-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-0d1117?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-18222d?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5711914854157447198">
     <img src="https://img.shields.io/badge/Google_Play-Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
   <a href="https://salmonidas-dev.vercel.app/open-source">
-    <img src="https://img.shields.io/badge/Open_Source-Projects-0d1117?style=for-the-badge&logo=openproject&logoColor=pink" alt="Progetti Open Source"/>
+    <img src="https://img.shields.io/badge/Open_Source-Projects-102a45?style=for-the-badge&logo=openproject&logoColor=pink" alt="オープンソースプロジェクト"/>
   </a>
+</p>
+
+# 注目のプロジェクト
+
+<p align="center">
+  <a href="https://salmonidas-dev.vercel.app/aion-alarmas" target="_blank">
+    <img src="https://img.shields.io/badge/Aion_Alarmas-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Aion Alarmas"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.salmonidas.aion" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Wear_OS-4285F4?style=flat-square&logo=wearos&logoColor=white" alt="Wear OS"/>
 </p>
 
 # 開発

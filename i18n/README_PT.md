@@ -1,5 +1,17 @@
 # Jorge Salmón
 
+<p>
+  <a href="../README.md">English</a>
+  ·
+  <a href="./README_ES.md">Español</a>
+  ·
+  <b>Português</b>
+  ·
+  <a href="./README_IT.md">Italiano</a>
+  ·
+  <a href="./README_JA.md">日本語</a>
+</p>
+
 ## Apresentação 👋
 
 Jorge, desenvolvedor de aplicações multiplataforma.
@@ -8,18 +20,36 @@ Gosto de criar novos projetos das coisas que gosto e torná-los o mais úteis po
 - 📚 Técnico superior em desenvolvimento de aplicações multiplataforma.
 - 🌱 Atualmente aprendendo desenvolvimento Android com Kotlin, Jetpack Compose e tecnologias móveis multiplataforma...
 
-# Sítios
+# Sites
 
 <p align="center">
   <a href="https://salmonidas-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-0d1117?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-18222d?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5711914854157447198">
     <img src="https://img.shields.io/badge/Google_Play-Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
   <a href="https://salmonidas-dev.vercel.app/open-source">
-    <img src="https://img.shields.io/badge/Open_Source-Projetos-0d1117?style=for-the-badge&logo=openproject&logoColor=pink" alt="Projetos Open Source"/>
+    <img src="https://img.shields.io/badge/Open_Source-Projetos-102a45?style=for-the-badge&logo=openproject&logoColor=pink" alt="Projetos Open Source"/>
   </a>
+</p>
+
+# Projeto em Destaque
+
+<p align="center">
+  <a href="https://salmonidas-dev.vercel.app/aion-alarmas" target="_blank">
+    <img src="https://img.shields.io/badge/Aion_Alarmas-Despertador_Inteligente-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Aion Alarmas"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.salmonidas.aion" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Instalar-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Wear_OS-4285F4?style=flat-square&logo=wearos&logoColor=white" alt="Wear OS"/>
 </p>
 
 # Desenvolvimento 
