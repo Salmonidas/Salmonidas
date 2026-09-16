@@ -38,7 +38,7 @@ Gosto de criar novos projetos das coisas que gosto e torná-los o mais úteis po
 
 <p align="center">
   <a href="https://salmonidas-dev.vercel.app/aion-alarmas" target="_blank">
-    <img src="https://img.shields.io/badge/Aion_Alarmas-Despertador_Inteligente-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Aion Alarmas"/>
+    <img src="https://img.shields.io/badge/Aion_Alarmes-Despertador_Inteligente-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Aion Alarmes"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.salmonidas.aion" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-Instalar-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>

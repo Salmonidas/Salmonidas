@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://salmonidas-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-salmonidas--dev-18222d?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA-salmonidas--dev-18222d?style=for-the-badge&logo=vercel&logoColor=green" alt="ポートフォリオ"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5711914854157447198">
-    <img src="https://img.shields.io/badge/Google_Play-Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+    <img src="https://img.shields.io/badge/Google_Play-%E3%82%A2%E3%83%97%E3%83%AA-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
   <a href="https://salmonidas-dev.vercel.app/open-source">
-    <img src="https://img.shields.io/badge/Open_Source-Projects-102a45?style=for-the-badge&logo=openproject&logoColor=pink" alt="オープンソースプロジェクト"/>
+    <img src="https://img.shields.io/badge/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-102a45?style=for-the-badge&logo=openproject&logoColor=pink" alt="オープンソースプロジェクト"/>
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://salmonidas-dev.vercel.app/aion-alarmas" target="_blank">
-    <img src="https://img.shields.io/badge/Aion_Alarmas-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Aion Alarmas"/>
+    <img src="https://img.shields.io/badge/Aion_%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Aion アラーム"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.salmonidas.aion" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>

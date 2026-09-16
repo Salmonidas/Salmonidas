@@ -38,7 +38,7 @@ I love creating projects of the things that I like and  that can be useful.
 
 <p align="center">
   <a href="https://salmonidas-dev.vercel.app/aion-alarmas" target="_blank">
-    <img src="https://img.shields.io/badge/Aion_Alarmas-Smart_Alarm_Clock-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Aion Alarmas"/>
+    <img src="https://img.shields.io/badge/Aion_Alarms-Smart_Alarm_Clock-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Aion Alarms"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.salmonidas.aion" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-Install-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
